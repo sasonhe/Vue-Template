@@ -11,5 +11,5 @@ export default{
 }
 </script>
 <style scoped>
-
+div{width: 100px;height: 100px;margin: 50px auto;text-align: center;}
 </style>
