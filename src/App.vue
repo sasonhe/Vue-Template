@@ -1,7 +1,7 @@
 <template>
-<div>
-    <hello></hello>
-</div>
+    <div>
+        <hello></hello>
+    </div>
 </template>
 <script>
 import hello from './components/hello.vue'
