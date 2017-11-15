@@ -10,4 +10,4 @@ npm install
 npm start
 
 # build for production with minification
-npm webpack
+webpack
